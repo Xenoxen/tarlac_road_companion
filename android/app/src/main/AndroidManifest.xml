@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="tarlacroadcompanion"
+        android:label="Tarlac Road Companion"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
