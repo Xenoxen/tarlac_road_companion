@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090268742919",
+    "firebase_url": "https://project-watcher.firebaseio.com",
+    "project_id": "project-watcher",
+    "storage_bucket": "project-watcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090268742919:android:9a925fa594652d75dfb1a2",
+        "android_client_info": {
+          "package_name": "com.progden.tarlacroadcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090268742919-616m1i1s0h0cd8f4e98goieihlrh66du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxQzqyziBowyqLsqIuOCYXnelQxU9i34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090268742919-616m1i1s0h0cd8f4e98goieihlrh66du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
